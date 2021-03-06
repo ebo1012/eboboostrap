@@ -1,0 +1,56 @@
+
+.logo{
+	color: purple!important;
+	font-weight: 900;
+	font-size: 35px;
+}
+
+.menu{
+	width: 40%;
+}
+
+.menu ul li a{
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.menu ul li:hover{
+	color: #8050ED!important;
+}
+
+}
+.card{
+	padding: 15px 0px;
+}
+
+.card h5{
+	padding: 35px 0px;
+}
+.card img{
+	width: 20%;
+	align-self: center;
+}
+
+.box img{
+	width:75%;
+	align-self: center;
+}
+
+
+.first{
+	border: solid 2px black;
+}
+
+.submit{
+	margin-top: 32px;
+}
+
+.post-cards{
+	border: solid 2px black;
+	padding: 25px;
+}
+
+
+@media (max-width: 767.98px) {
+	.about-text{
+		padding: 45px 10px;
